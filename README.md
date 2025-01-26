@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @suhail12222
-- 👀 I’m interested in Java Spring-Boot-Developer
+- 👀 I’m interested in Java Spring-Boot
 - 🌱 I’m currently learning Spring Boot
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me whtasapp-me:9797884108
